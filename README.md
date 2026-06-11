@@ -3,7 +3,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.x-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Overview
 
@@ -234,13 +234,6 @@ This project demonstrates:
 
 **Shahbaaz Ahmed Sadiq**
 
-King Fahd University of Petroleum and Minerals (KFUPM)
-
 GitHub:
 https://github.com/shahbaaz771
 
----
-
-## License
-
-This project is licensed under the MIT License.
